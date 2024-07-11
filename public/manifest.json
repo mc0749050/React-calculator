@@ -1,9 +1,9 @@
 {
   "short_name": "Calculator",
-  "name": "Create React App Sample",
+  "name": "Calculator",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "calculator-2021-04-29.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
@@ -19,7 +19,7 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
