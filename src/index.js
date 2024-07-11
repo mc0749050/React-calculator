@@ -4,10 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import * as serviceWorker from './serviceWorker';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 // Change unregister() to register() below
-serviceWorker.register();
 root.render(
   <React.StrictMode>
     <App />
